@@ -12,4 +12,3 @@ It's a fictional app called "Toolcase" — a simple list for developers and desi
 
 The project will be compiled to the `dist/` folder.
 
-![Toolcase Screenshot](https://www.dropbox.com/s/eov1611mvc60rod/toolcase.png?raw=1)
