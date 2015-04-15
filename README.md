@@ -12,3 +12,4 @@ It's a fictional app called "Toolcase" — a simple list for developers and desi
 
 The project will be compiled to the `dist/` folder.
 
+[![Code Climate](https://codeclimate.com/repos/552eae1ae30ba01e00002361/badges/ea8963eeb5a9fa505aae/gpa.svg)](https://codeclimate.com/repos/552eae1ae30ba01e00002361/feed)

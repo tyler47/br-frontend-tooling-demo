@@ -1,6 +1,6 @@
 {
-  "name": "br-demo",
-  "root": "dist",
+  "name": "tyler47test",
+  "root": "public",
   "clean_urls": true,
   "error_page": "error.html"
 }
